@@ -1,4 +1,4 @@
-# autofocus_tool
+# Autofocus Tool
 
 Focus stacking is a technique used in many industries to
 combine multiple images with out-of-focus areas into a
